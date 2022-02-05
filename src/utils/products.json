@@ -1,0 +1,236 @@
+{
+    "laptops": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Ultrabook ASUS",
+                "price": 3498,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/2uvPFrl.jpg",
+                "producerCod": "X513EA-BQ2887",
+                "colour": "Argintiu",
+                "guarantee": "12 luni",
+                "brand": "Asus",
+                "description": "Ultrabook ASUS 15.6'' VivoBook 15 X513EA, FHD, Procesor Intel® Core™ i7-1165G7 (12M Cache, up to 4.70 GHz, with IPU), 8GB DDR4, 512GB SSD, Intel Iris Xe, No OS, Dreamy White"
+            },
+            {
+                "id": 2,
+                "name": "Ultrabook HP",
+                "price": 5498,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/OzVTsLR.jpg",
+                "producerCod": "1J6L9EA",
+                "colour": "Argintiu",
+                "guarantee": "36 luni",
+                "brand": "HP",
+                "description": "Ultrabook HP 15.6'' EliteBook 855 G7, FHD, Procesor AMD Ryzen™ 5 PRO 4650U (8M Cache, up to 4.0 GHz), 16GB DDR4, 512GB SSD, Radeon, Win 10 Pro, Silver"
+            },
+            {
+                "id": 3,
+                "name": "Laptop Lenovo Gaming",
+                "price": 5798,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/HtdcVBc.jpg",
+                "producer-cod": "82JS000GRM",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Lenovo",
+                "description": "Laptop Lenovo Gaming 16'' Legion 5 Pro 16ACH6H, WQXGA IPS 165Hz G-Sync, Procesor AMD Ryzen™ 7 5800H (16M Cache, up to 4.4 GHz), 16GB DDR4, 512GB SSD, GeForce RTX 3050 Ti 4GB, No OS, Storm Grey"
+            }
+        ],
+        "image": "https://i.imgur.com/cfFosyj.jpg",
+        "name": "Laptopuri",
+        "description": "Laptopuri ultima generatie"
+    },
+    "phones": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Smartphone Samsung Galaxy S21 Plus",
+                "price": 4249,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/KLEGAbm.jpg",
+                "producerCod": "SM-G996BZVGEUE",
+                "colour": "Violet",
+                "guarantee": "24 luni",
+                "brand": "Samsung",
+                "description": "Smartphone Samsung Galaxy S21 Plus, 5G Edition, Octa Core, 256GB, 8GB RAM, Dual SIM, 4-Camere, Phantom Violet."
+            },
+            {
+                "id": 5,
+                "name": "Smartphone Apple iPhone 12",
+                "price": 3999,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/yjAyKNP.jpg",
+                "producerCod": "iPhone 12 64GB Black, MGJ53, mgj53rm/a",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Apple",
+                "description": "Smartphone Apple iPhone 12, 64GB, 5G, Black, nanoSIM si eSIM"
+            },
+            {
+                "id": 6,
+                "name": "Smartphone ASUS Zenfone 8",
+                "price": 2698,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Sn0m1Oz.jpg",
+                "producerCod": "ZS590KS-2A009EU",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Asus",
+                "description": "Smartphone ASUS Zenfone 8, Ecran 120Hz, Snapdragon 888 5G, 256GB, 8GB RAM, Black."
+            },
+            {
+                "id": 7,
+                "name": "Smartphone Xiaomi 11 Lite NE",
+                "price": 1999,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/RKvIboM.jpg",
+                "producerCod": "Xiaomi 11 Lite NE 5G 8+128GB Truffle Black",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Xiaomi",
+                "description": "Smartphone Xiaomi 11 Lite NE, 5G Edition, AMOLED, 128GB, 8GB RAM, Dual SIM, 5G, 4-Camere, Truffle Black."
+            }
+        ],
+        "image": "https://i.imgur.com/eztgFUm.jpg",
+        "name": "Telefoane",
+        "description": "Cele mai noi smartphon-uri"
+    },
+    "gaming-system": {
+        "items": [
+            {
+                "id": 8,
+                "name": "PC Gaming Raptor5 AMD",
+                "price": 6499,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/bxrEvX6.jpg",
+                "producerCod": "Gaming Raptor5 AMD IV",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "AMD",
+                "description": "PC Gaming Raptor5 AMD, AMD Ryzen 5 PRO 5600G 3.9GHz, 16GB DDR4, 500GB SSD, GTX 1660 SUPER 6GB GDDR6, Iluminare RGB."
+            },
+            {
+                "id": 9,
+                "name": "PC Office PRO C7H7 Powered By ASUS",
+                "price": 3098,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/oJvmqvg.jpg",
+                "producerCod": "Office PRO C7H7",
+                "colour": "Negru-albastru",
+                "guarantee": "24 luni",
+                "brand": "Asus",
+                "description": "PC Office PRO C7H7 Powered By ASUS, Intel i7-11700 2.5GHz, 8GB DDR4, 512GB SSD, GMA UHD 750."
+            }
+        ],
+        "image": "https://i.imgur.com/DcaS5fc.jpg",
+        "name": "Sisteme Gaming",
+        "description": "Doar pentru gameri adevarati"
+    },
+    "components": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Placa video Palit GeForce RTX 3070 Ti",
+                "price": 6390,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/0esOaXV.jpg",
+                "producerCod": "NED307T019P2-1046A",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "NVIDIA",
+                "description": "Placa video Palit GeForce RTX 3070 Ti GamingPro LHR 8GB GDDR6X 256-bit."
+            },
+            {
+                "id": 11,
+                "name": "Placa video MSI Radeon RX 6700",
+                "price": 4973,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/tjzLoVm.jpg",
+                "producerCod": "Radeon RX 6700 XT MECH 2X 12G OC",
+                "colour": "Negru",
+                "guarantee": "36 luni",
+                "brand": "AMD",
+                "description": "Placa video MSI Radeon RX 6700 XT MECH 2X OC 12GB GDDR6 192-bit"
+            }
+        ],
+        "image": "https://i.imgur.com/Jo6OJ62.jpg",
+        "name": "Componente",
+        "description": "Creeaza-ti propriul sistem configurat"
+    },
+    "TVs": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Televizor LED Samsung Smart TV QLED",
+                "price": 3098,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/GTFetuo.jpg",
+                "producerCod": "QE55Q60AAUXXH",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Samsung",
+                "description": "Televizor LED Samsung Smart TV QLED 55Q60A Seria Q60A 138cm negru 4K UHD HDR."
+            },
+            {
+                "id": 13,
+                "name": "Televizor LED Philips Smart TV",
+                "price": 2398,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/O4MwWE1.jpg",
+                "producerCod": "50PUS7956/12",
+                "colour": "Argintiu",
+                "guarantee": "24 luni",
+                "brand": "Philips",
+                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
+            },
+            {
+                "id": 14,
+                "name": "Televizor LED LG Smart TV",
+                "price": 1898,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/Y8yxfqE.jpg",
+                "producerCod": "43UP77003LB",
+                "colour": "Gri-Negru",
+                "guarantee": "24 luni",
+                "brand": "LG",
+                "description": "Televizor LED LG Smart TV 43UP77003LB Seria UP77 108cm gri-negru 4K UHD HDR."
+            }
+        ],
+        "image": "https://i.imgur.com/jtt6Rx3.jpg",
+        "name": "Televizoare",
+        "description": "De vazut filme la calitate 4K"
+    },
+    "audio-systems": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Mini-sistem audio Panasonic",
+                "price": 1186,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/usbgc71.jpg",
+                "producerCod": "SC-TMAX10E-K",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Panasonic",
+                "description": "Mini-sistem audio Panasonic High Power SC-TMAX10E-K, 300W, AIRQUAKE BASS, Black."
+            },
+            {
+                "id": 16,
+                "name": "Mini-sistem audio Kruger&Matz",
+                "price": 287,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/QS1aUA4.jpg",
+                "producerCod": "KM0811",
+                "colour": "Negru",
+                "guarantee": "24 luni",
+                "brand": "Kruger&Matz",
+                "description": "Mini-sistem audio Kruger&Matz KM0811."
+            }
+        ],
+        "image": "https://i.imgur.com/3p6RmEC.jpg",
+        "name": "Sisteme Audio",
+        "description": "Sa asculti muzica favorita la cea mai buna calitate"
+    }
+}

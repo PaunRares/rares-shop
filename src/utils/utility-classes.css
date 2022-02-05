@@ -1,0 +1,14 @@
+.container-min-max-width {
+    min-width: 280px;
+    max-width: 1200px;
+}
+.pointer {
+    cursor: pointer;
+}
+.text-decoration {
+    text-decoration: none;
+
+}
+.text-decoration:hover {
+    text-decoration: underline;
+}
